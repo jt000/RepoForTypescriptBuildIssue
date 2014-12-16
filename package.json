@@ -1,0 +1,10 @@
+{
+    "name": "RepoForTypescriptBuildIssue",
+    "version": "0.0.0",
+    "description": "RepoForTypescriptBuildIssue",
+    "main": "app.js",
+    "scripts": {
+        "client": "node client.js",
+        "server": "node server.js"
+    }
+}
